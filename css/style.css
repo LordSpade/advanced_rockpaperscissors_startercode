@@ -1,1 +1,20 @@
+h1{
+    text-align:center;
+    font-size:45px;
+}
 
+img{
+    display:block;
+    width:50%;
+    margin:0 auto;
+}
+
+#paragraph1{
+    text-align:justify;
+    font-size:25px;
+}
+
+#paragraph2{
+    text-align:center;
+    font-size:25px;
+}
